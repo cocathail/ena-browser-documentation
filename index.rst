@@ -24,8 +24,9 @@ For submission guidelines and retrieval tutorials, please see the `ENA Training 
 .. toctree::
    :caption: News & Announcements
    :maxdepth: 1
-   news_and_announcements/news.md
-   news_and_announcements/announcements.md
+
+   news/news.md
+   news/announcements.md
 
 .. toctree::
    :caption: The ENA Browser
