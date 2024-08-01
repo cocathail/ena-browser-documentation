@@ -20,7 +20,7 @@ For submission guidelines and retrieval tutorials, please see the `ENA Training 
    about/data-standards
    about/funding
    about/events
-   about/news
+   about/news_and_announcements
 
 .. toctree::
    :caption: The ENA Browser
