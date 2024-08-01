@@ -1,3 +1,7 @@
+
+News
+======
+
 :::{admonition} ENA News - INSDC publishes guidance for prospective new members (20-05-2024) :class: tip
 
 The International Nucleotide Sequence Database Collaboration (INSDC) recognizes the critical importance of sequence data to research and public health, and supports global open-access sequence data sharing through collaboration. Sequence data has become an integral component of multiple life science disciplines and sequence data generation continues to increase at significant rates. With this in mind, INSDC aims to broaden its membership and attract diverse new members representing qualified nucleotide sequence databases.
