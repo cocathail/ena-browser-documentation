@@ -17,10 +17,10 @@ For submission guidelines and retrieval tutorials, please see the `ENA Training 
    about/citing-ena
    about/data_coordination
    about/policies
+   about/news-and-announcements/
    about/data-standards
    about/funding
    about/events
-   about/news-and-announcements/
 
 .. toctree::
    :caption: The ENA Browser
