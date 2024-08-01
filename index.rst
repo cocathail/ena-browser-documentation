@@ -10,7 +10,7 @@ For submission guidelines and retrieval tutorials, please see the `ENA Training 
 
 .. toctree::
    :caption: About ENA
-   :maxdepth: 2
+   :maxdepth: 1
 
    about/about_ena
    about/ena_content
@@ -20,7 +20,7 @@ For submission guidelines and retrieval tutorials, please see the `ENA Training 
    about/data-standards
    about/funding
    about/events
-   about/news_and_announcements
+   about/news-and-announcements
 
 .. toctree::
    :caption: The ENA Browser
