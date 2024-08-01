@@ -3,7 +3,8 @@ News
 ======
 This is a page for news items about the European Nucleotide Archive
 
-:::{admonition} ENA News - INSDC publishes guidance for prospective new members (20-05-2024)
+20-05-2024
+:::{admonition} ENA News - INSDC publishes guidance for prospective new members
 :class: tip
 
 The International Nucleotide Sequence Database Collaboration (INSDC) recognizes the critical importance of sequence data to research and public health, and supports global open-access sequence data sharing through collaboration. Sequence data has become an integral component of multiple life science disciplines and sequence data generation continues to increase at significant rates. With this in mind, INSDC aims to broaden its membership and attract diverse new members representing qualified nucleotide sequence databases.
@@ -12,9 +13,12 @@ In support of this effort, INSDC formalized the collaboration through the develo
 
 Founding Members of the INSDC will provide consultation to interested parties as prospective members will be required to demonstrate appropriate capacity, commitment, and activity in areas such as governance, technical infrastructure, data operations, and communications and engagement. Interested parties are encouraged to contact INSDC.
 
-The INSDC is a long-standing initiative, and its Founding Members are the Research Organization of Information and Systems, National Institute of Genetics (ROIS-NIG) in Japan, the European Molecular Biology Laboratory – European Bioinformatics Institute (EMBL-EBI), and the National Library of Medicine-National Center for Biotechnology Information (NLM-NCBI), a component of the National Institutes of Health in the United States. :::
+The INSDC is a long-standing initiative, and its Founding Members are the Research Organization of Information and Systems, National Institute of Genetics (ROIS-NIG) in Japan, the European Molecular Biology Laboratory – European Bioinformatics Institute (EMBL-EBI), and the National Library of Medicine-National Center for Biotechnology Information (NLM-NCBI), a component of the National Institutes of Health in the United States.
+:::
 
-:::{admonition} ENA News - Improving spatiotemporal annotations (01-12-2024)
+
+01-12-2024
+:::{admonition} ENA News - Improving spatiotemporal annotations
 :class: tip
 
 The European Nucleotide Archive, along with its partners in the International Nucleotide Sequence Database Collaboration, is set to introduce mandatory spatio-temporal information for all new samples
