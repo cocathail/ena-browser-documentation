@@ -22,11 +22,10 @@ For submission guidelines and retrieval tutorials, please see the `ENA Training 
    about/events
 
 .. toctree::
-   :caption: News & Announcements
+   :caption: Announcements
    :maxdepth: 1
 
-   news/news.md
-   news/announcements.md
+   news/announcements.rst
 
 .. toctree::
    :caption: The ENA Browser
